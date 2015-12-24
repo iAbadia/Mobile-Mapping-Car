@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MaPP</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="exit_button">Exit</string>
+    <string name="return_button">Back</string>
+
+    <string name="title_activity_connect_screen">ConnectScreen</string>
+
+    <string name="title_activity_fullscreen_map_view">FullscreenMapView</string>
+    <string name="title_activity_live_video_screen">LiveVideoScreen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_map_list">MapList</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+    <!--About Activity text:-->
+    <string name="about_title">&lt;h1>&lt;u>&lt;b>About the MaPP Android Application&lt;/b>&lt;/u>&lt;/h1></string>
+    <string name="about_content">&lt;h3>Goal:&lt;/h3>&lt;br>&lt;h5>The purpose of this application is to allow the user to explore and get information from an unworkable area.&lt;/h5>&lt;br>&lt;h3>Developing team:&lt;/h3>&lt;br>&lt;h5>This application has been developed by the Team one, featuring : Iñaki Abadía, Jaime Escuer, Roger Prat Ferrer and Guillaume Trousseau.&lt;/h5> </string>
+</resources>
