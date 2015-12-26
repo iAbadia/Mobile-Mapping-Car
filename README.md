@@ -23,9 +23,9 @@ We have included 6 documents to help comprehend how the project works:
 ## Media
 
 ### Car
-![Car pics](http://i.imgur.com/sKEcbRS.jpg)
+![Car pics](http://i.imgur.com/nbcJJJ4.jpg)
 ### App
-![App activities](http://i.imgur.com/SwtdUnH.png)
+![App activities](http://i.imgur.com/ZBbbAHa.png)
 
 ## License
 
